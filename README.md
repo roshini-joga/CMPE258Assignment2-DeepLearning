@@ -1,11 +1,12 @@
 # CMPE258Assignment2-DeepLearning
 
 Classification:
-https://drive.google.com/file/d/12Ug2HM6pZzBQaBnJigBAlpcL1tA9OhKJ/view?usp=sharing
+https://youtu.be/M4HzM5c_5dw
 
 
 Regression:
-https://drive.google.com/file/d/12Ug2HM6pZzBQaBnJigBAlpcL1tA9OhKJ/view?usp=sharing
+https://youtu.be/KSTtLiXh5yw
+
 
 Image classification:
-https://drive.google.com/file/d/12Ug2HM6pZzBQaBnJigBAlpcL1tA9OhKJ/view?usp=sharing
+https://youtu.be/RrKb0kOS-2I
